@@ -1,0 +1,13 @@
+Software used:
+
+1. Netbeans downloading link:
+https://netbeans.org/downloads/8.2/rc/
+
+2. For this project use mysql version :5.5.45 
+Link to download mysql-5.5.45: https://drive.google.com/file/d/1nNmOcmICQ9k4z1hCob_h4Gs0ICKXPA2P/view?usp=sharing
+
+Jar file used:
+1. rs2xml
+Link: https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download
+2.JCalender-1.8
+Link: http://www.java2s.com/Code/JarDownload/jcalendar/jcalendar-1.4.jar.zip
